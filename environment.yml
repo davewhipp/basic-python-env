@@ -1,4 +1,4 @@
-name: basic-python-env
+name: geo-python-teacher
 channels:
   - conda-forge
 
