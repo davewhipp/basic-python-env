@@ -1,2 +1,3 @@
-# basic-python-env
-A GitHub repo for a basic Python environment to be used with Docker.
+# geo-python-teacher-env
+
+A GitHub repo for teachers in the Geo-Python course.
